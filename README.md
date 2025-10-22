@@ -1,5 +1,5 @@
 # ZOO online
-** ZOO online** to prosta strona internetowa prezentująca wirtualne zoo.
+**ZOO online** to prosta strona internetowa prezentująca wirtualne zoo.
 
 ## Spis treści
 - [Opis projektu](#opis-projektu).
