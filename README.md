@@ -6,7 +6,7 @@
 - [Technologie](#technologie).
 - [Jak uruchomić](#jak-uruchomić).
 
-  ##Opis projektu
+  ## Opis projektu
   Celem jest nauka gita i githuba.
 
   ## Technologie
